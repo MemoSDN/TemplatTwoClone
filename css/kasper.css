@@ -991,8 +991,10 @@ header nav .form i {
     color: white;
     text-align: center;
 }
-footer img {
+.footer img {
     margin-bottom: 20px;
+    max-width: 100%;
+
 }
 .footer .container p:not(.copyright) {
     text-transform: uppercase;
